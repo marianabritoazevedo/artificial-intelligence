@@ -2,7 +2,7 @@
 Esta questão, referente ao assunto de classificação de padrões, apresenta o seguinte enunciado:
 Considere os dados apresentados na tabela abaixo. Assumindo que as distribuições associadas a cada classe são gaussianas com probabilidades a priori dadas por (P(ω1) =P(ω2) = 1/2) busque solucionar as questões abaixo.
 
-Classe e feature |W1(x1)|W1(x2)|W2(x1)|W2(x2)
+Classe e feature |ω1(x1)|ω1(x2)|ω2(x1)|ω2(x2)
 -----------------|------|------|------|------
 1                |-5.01 |-8.12 |-0.91 |-0.18
 2                |-5.43 |-3.48 |1.30  |-2.06
@@ -14,3 +14,8 @@ Classe e feature |W1(x1)|W1(x2)|W2(x1)|W2(x2)
 8                |-2.25 |-2.13 |7.18  |1.46
 9                |5.56  |2.86  |-7.39 |1.17
 10               |1.03  |-3.33 |-7.50 |-6.32
+
+a)Estime o vetor média e a matriz de covariância de cada distribuição gaussiana multivariada.
+b)
+
+$g_i(x) = -\frac{1}{2}\cdot((x-\mu_i)^{t}\cdot\varepsilon_{i}^{-1} \cdot(x-\mu_i))-\frac{1}{2}\cdot ln(|\varepsilon_i|)$
