@@ -1,4 +1,4 @@
-# Questão: classificação de padrões
+# :pencil2: Questão: classificação de padrões
 Esta questão, referente ao assunto de classificação de padrões, apresenta o seguinte enunciado:
 Considere os dados apresentados na tabela abaixo. Assumindo que as distribuições associadas a cada classe são gaussianas com probabilidades a priori dadas por (P(ω1) =P(ω2) = 1/2) busque solucionar as questões abaixo.
 
