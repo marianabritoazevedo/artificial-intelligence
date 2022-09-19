@@ -16,6 +16,5 @@ Classe e feature |ω1(x1)|ω1(x2)|ω2(x1)|ω2(x2)
 10               |1.03  |-3.33 |-7.50 |-6.32
 
 a)Estime o vetor média e a matriz de covariância de cada distribuição gaussiana multivariada.
-b)
-
+b) Determine a superfície de decisão fazendo g1(x)=g2(x), g1(x)e g2(x) as funções descriminantes e $x=[x1,x2]^{t}$. As funções discriminantes $g_{i}(x)$, i=1,2 podem ser calculadas para estas condições pela equação abaixo.
 $g_i(x) = -\frac{1}{2}\cdot((x-\mu_i)^{t}\cdot\varepsilon_{i}^{-1} \cdot(x-\mu_i))-\frac{1}{2}\cdot ln(|\varepsilon_i|)$
