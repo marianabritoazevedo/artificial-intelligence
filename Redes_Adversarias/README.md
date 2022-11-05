@@ -10,4 +10,4 @@ Este tipo de treinamento tem como objetivo, por exemplo, identificar se uma imag
 
 Abaixo, encontra-se o esquema de funcionamento de redes adversárias generativas:
 
-![Imagem redes adversarias](./images/imd-redes-adversarias.png)
+![image info](./images/img-redes-adversarias.png)
