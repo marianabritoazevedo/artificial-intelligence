@@ -1,6 +1,6 @@
 ## :bulb: Sobre este trabalho
 
-Este trabalho foi adaptado de um projeto encontrado no [https://www.kaggle.com/general/247477](Kaggle), produzido por Ishan Kotian. Este tem como objetivo entender e explorar na prática as Redes Adversárias Generativas (GAN), uma nova prática de deep learning bem recente na literatura.
+Este trabalho foi adaptado de um projeto encontrado no [Kaggle](https://www.kaggle.com/general/247477), produzido por Ishan Kotian. Este tem como objetivo entender e explorar na prática as Redes Adversárias Generativas (GAN), uma nova prática de deep learning bem recente na literatura.
 
 ### Redes Adversárias Generativas
 
