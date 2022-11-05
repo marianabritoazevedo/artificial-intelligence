@@ -11,3 +11,5 @@ Este tipo de treinamento tem como objetivo, por exemplo, identificar se uma imag
 Abaixo, encontra-se o esquema de funcionamento de redes adversárias generativas:
 
 ![image info](./images/img-redes-adversarias.png)
+
+Em geral, quando o modelo discriminador está sendo treinado, o modelo gerador deve ser congelado e deve apenas retropropagar os erros para atualizar apenas o discriminador, e o mesmo ocorre na situação inversa. Deve-se para o treinamento quando o equilíbrio de Nash é atingido, ou seja, quando as imagens geradas parecem quase imagens reais.
