@@ -16,8 +16,11 @@ A imagem abaixo mostra um exemplo do passo a passo de uma rede neural convolucio
 
 ![image info](./images/rede-convolucional.png)
 
-## :tshirt: Aplicação: dataset fashion_mnist
+## :fist: Aplicação: Linguagem Brasileira de Sinais
 
-A aplicação tem como objetivo utilizar o dataset fashion_mnist do Keras, que contém 70.000 imagens de roupas. Essas imagens possuem tamanho 28x28 em tons de cinza, e são associadas a um rótulo de 10 classes diferentes.
+A aplicação tem como objetivo identificar a qual letra uma imagem corresponde na Língua Brasileira de Sinais (Libras). Assim, para essa aplicação, utilizou-se um dataset do Kaggle com aproximadamente 86 mil imagens, categorizadas em 29 classes: as 26 letras do alfabeto e outros três símbolos comuns em libras: _del_, _nothing_ e _space_.
 
-Assim, a partir das imagens reais, serão geradas novas imagens falsas pelo modelo gerador (a partir da introdução de um ruído nas imagens), enquanto o modelo discriminador deverá realizar corretamente a classificação das imagens como verdadeiras ou falsas.
+A imagem abaixo ilustra os símbolos de cada letra do alfabeto em libras:
+
+<img src="https://s1.static.brasilescola.uol.com.br/img/2019/09/alfabeto.png">
+
