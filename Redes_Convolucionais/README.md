@@ -8,11 +8,13 @@ As redes neurais convolucionais são muito utilizadas em aplicações onde os da
 
 Em geral, esse tipo de rede neural é composto por 3 etapas principais:
 
-1. __Convolução__: 
+1. __Convolução__: nessa camada, são aplicados diversos filtros que realizam a operação matemática da convolução nos dados;
+2. __Pooling__: esta etapa tem como objetivo simplificar as informações vindas da cama anterior, diminuindo bastante o tamanho dos dados;
+3. __Fully connected__: após realizar as operações de convolução e pooling desejadas, a última etapa é uma rede perceptron de múltiplas camadas, sendo o final da rede convolucional.
 
-![image info](./images/img-redes-adversarias.png)
+A imagem abaixo mostra um exemplo do passo a passo de uma rede neural convolucional
 
-Em geral, quando o modelo discriminador está sendo treinado, o modelo gerador deve ser congelado e deve apenas retropropagar os erros para atualizar apenas o discriminador, e o mesmo ocorre na situação inversa. Deve-se para o treinamento quando o equilíbrio de Nash é atingido, ou seja, quando as imagens geradas parecem quase imagens reais.
+![image info](./images/rede-convolucional.png)
 
 ## :tshirt: Aplicação: dataset fashion_mnist
 
