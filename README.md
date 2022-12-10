@@ -8,6 +8,8 @@ Este repositório tem como objetivo mostrar as questões e projetos desenvolvido
 - [Questões: Problemas de Deep Learning](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Questoes_U2) 
 - [Projeto/Pesquisa: Redes Neurais Convolucionais](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Redes_Convolucionais) 
 - [Projeto/Pesquisa: Redes Adversárias Geradoras](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Redes_Adversarias) 
+- [Questões: Problemas de Inteligência Artificial](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Questoes_U3) 
+- [Projeto/Pesquisa: Imagens Artísticas Com Transfer Learning](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Imagens_Artisticas_Com_Transfer_Learning) 
 
 # ![eua](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png) Artificial Intelligence
 This repository aims to show the questions and projects developed during the Artificial Intelligence course (DCA0200), taken at the Federal University of Rio Grande do Norte (UFRN)
@@ -19,6 +21,9 @@ This repository aims to show the questions and projects developed during the Art
 - [Questions: Deep Learning problems](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Questoes_U2) 
 - [Project/Research: Convolutional Neural Networks](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Redes_Convolucionais) 
 - [Project/Research: Generative Adversarial Networks](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Redes_Adversarias) 
+- [Questions: Artificial Intelligence problems](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Questoes_U3) 
+- [Project/Research: Artistic Images With Transfer Learning](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Imagens_Artisticas_Com_Transfer_Learning) 
+
 
 # ![france](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png) Intelligence Artificielle
 Ce référentiel vise à montrer les questions et les projets développés dans la discipline Intelligence Artificielle (DCA0200) à l'Université Fédérale de Rio Grande do Norte (UFRN)
@@ -30,4 +35,8 @@ Ce référentiel vise à montrer les questions et les projets développés dans 
 - [Questions: Problèmes de Deep Learning](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Questoes_U2) 
 - [Projet/Recherche: Réseaux de Neurones Convolutifs](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Redes_Convolucionais) 
 - [Projet/Recherche: Réseaux Antagonistes Génératifs](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Redes_Adversarias) 
+- [Questions: Problèmes d'Intelligence Artificielle](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Questoes_U3) 
+- [Projet/Recherche: Images Artistiques avec Apprentissage par Transfert](https://github.com/marianabritoazevedo/artificial-intelligence/tree/main/Imagens_Artisticas_Com_Transfer_Learning) 
+
+
 
